@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-linux-lfs"
-description = "Linux From Scratch toolchain and bootstrap integration"
+description = "SigmaOS Linux LFS - Linux From Scratch build orchestrator"
 version = "0.1.0"
 tier = 1
 
